@@ -65,13 +65,3 @@ El diseño funcional de este ecosistema fue sometido a estudios de mercado y enc
 ## Límites Legales y Confidencialidad
 * **Alcance de la Plataforma:** Operamos estrictamente en el marco de la **asesoría, consultoría y pre-acuerdo técnico**. El sistema no emite de forma autónoma actas conciliatorias oficiales; estas son derivadas y suscritas en alianza con centros de conciliación autorizados para otorgarles plena validez jurídica.
 * **Privacidad de Menores:** La plataforma maneja políticas rigurosas de encriptación y confidencialidad de datos, dado que la información procesada involucra de forma directa la integridad y derechos de menores de edad.
-
----
-### Autores del Proyecto (Escuela de Derecho - UCV 2026)
-* Cordova Zegarra Almendra
-* De La Cruz Ledezma Johan Edmilson
-* López Rodriguez, Karina Isabel
-* Mego García Gianpiere
-* Ruiz LLatanza Harumi
-
-* **Docente Asesor:** Danitza Susan Uceda Trujillo
