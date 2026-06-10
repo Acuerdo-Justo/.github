@@ -45,7 +45,6 @@ La plataforma web de **Acuerdo Justo** consolida las herramientas validadas en n
 | Módulo del Sistema | Funcionamiento e Impacto en el Usuario |
 | :--- | :--- |
 | **⚖️ Asesoría Virtual** | Orientación jurídica inicial automatizada que provee guías legales y formatos claros de manera gratuita y simplificada. |
-| **🧮 Calculadora de Pensión** | Herramienta técnica que procesa las necesidades reales del menor y las contrasta con la capacidad del progenitor, arrojando un plan financiero equilibrado. |
 | **📅 Sistema de Agendamiento** | Interfaz directa y ágil que permite la reserva de sesiones virtuales y el contacto directo con asesores legales o mediadores certificados. |
 | **💬 Canales de Comunicación** | Integración omnicanal fluida a través de la web y plataformas masivas (WhatsApp y Redes Sociales) para ofrecer asistencia personalizada inmediata. |
 
